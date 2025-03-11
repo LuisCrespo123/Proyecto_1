@@ -1,5 +1,12 @@
 body{
     background-color: lightblue;
-    text-align: center;
-    
+}
+.post{
+    width: 70%;
+    background-color: gray;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid red;
+    margin: 0px auto;
+    color: white;
 }
